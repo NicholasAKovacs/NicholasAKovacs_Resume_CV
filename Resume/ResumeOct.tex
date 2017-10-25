@@ -1,0 +1,207 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Twenty Seconds Resume/CV
+% LaTeX Template
+% Version 1.0 (14/7/16)
+%
+% Original author:
+% Carmine Spagnuolo (cspagnuolo@unisa.it) with major modifications by 
+% Vel (vel@LaTeXTemplates.com) and Harsh (harsh.gadgil@gmail.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[letterpaper]{twentysecondcv} % a4paper for A4
+
+% Command for printing skill overview bubbles
+\newcommand\skills{ 
+~
+	\smartdiagram[bubble diagram]{
+        \textbf{Structural}\\\textbf{~~Bioinformatics~~},
+        \textbf{~~~~~~~~OOP~~~~~~~~~},
+        \textbf{~~Molecular~~}\\\textbf{Modeling},
+        \textbf{~~~Scientific~~~}\\\textbf{Writing},
+        \textbf{Data}\\\textbf{Visualization},
+        \textbf{~~~~Network~~~~}\\\textbf{Science},
+        \textbf{Machine}\\\textbf{~~~Learning~~~}
+    }
+}
+
+% Programming skill bars
+\programming{{JavaScript / 1}, {SQL / 2}, {Python\tiny{ Numpy$\textbullet$Pandas$\textbullet$SK-Learn$\textbullet$NetworkX$\textbullet$BioPython} / 3.5}}
+
+% Projects text
+\projects{
+	\textbf{Ribosomal PPI Evolution:} Ribosomal protein-protein interface classification \\
+	\textbf{Ribosomal Protein Folding Evolution:} Inferred protein folding evolution from the structure of ribosomal proteins \\
+	\textbf{PyRo:} Python module for analyzing\\Ribosomal mmCIF files \\
+    \textbf{CS 7280$\textbullet$Network Science:} Atomic\\network analysis of rRNA evolution \\
+    \textbf{BIOL 7210$\textbullet$Computational Genomics:} Built a genome browser from the analysis of raw NGS reads \\
+}
+
+%----------------------------------------------------------------------------------------
+%	 PERSONAL INFORMATION
+%----------------------------------------------------------------------------------------
+% If you don't need one or more of the below, just remove the content leaving the command, e.g. \cvnumberphone{}
+
+\cvname{Nicholas Attila \newline Kovacs} % Your name
+\cvjobtitle{Structural Bioinformaticist} % Job
+% title/career
+
+\cvlinkedin{/in/KovacsNicholas}
+\cvgithub{NicholasAKovacs}
+\cvnumberphone{(248) 895 2704} % Phone number
+\cvsite{NicholasAKovacs.com} % Personal website
+\cvmail{Nicholas.Kovacs@gatech.edu} % Email address
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\makeprofile % Print the sidebar
+
+%----------------------------------------------------------------------------------------
+%	 EDUCATION
+%----------------------------------------------------------------------------------------
+\section{Education}
+
+\begin{twenty} % Environment for a list with descriptions
+	\twentyitem
+    	{Dec 2018}
+        {\textsuperscript{(Expected)}}
+        {\href{http://http://bioinformatics.gatech.edu/phd-curriculum/}PhD, Bioinformatics}
+        {{Georgia Institute of Technology, Atlanta, GA, USA}}
+        {}
+        {}
+	\twentyitem
+    	{May 2012}
+		{}
+        {BS, Biochemistry}
+        {{Michigan State University, East Lansing, MI, USA}}
+        {}
+        {}
+	%\twentyitem{<dates>}{<title>}{<organization>}{<location>}{<description>}
+\end{twenty}
+
+\section{Experience}
+\begin{twenty}
+	\twentyitem
+    	{Aug 2013 -}
+		{Dec 2018}
+        {\href{https://ww2.chemistry.gatech.edu/~lw26/}{PhD Candidate, Graduate Research Assistant}}
+        {Georgia Inst. of Tech.}
+        {}
+        {
+        \textbf{Adviser}: Dr. Loren Williams \\ 
+        \textbf{Thesis}: The History of Proteins Revealed by Data Mining the Ribosome
+        {\begin{itemize}
+        \item \textbf{Hypothesis}: The ribosome is a molecular fossil; its strucuture can be mined to unravel the evolution of life 
+        \item \textbf{Tools}: Python, PyMOL, Adobe Illustrator, JavaScript
+        \item \textbf{Funding}: NASA Astrobiology Institute
+        \item \textbf{Support}: Data analysis for experimental labmates
+ \vspace{4mm}
+		\end{itemize}}
+        }
+
+	\twentyitem
+    	{Mar 2017 -}
+		{Mar 2018}
+        {\href{https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5284}{East Asia and Pacific Institutes Fellow}}
+        {National Taiwan University}
+        {}
+        {
+\vspace{-3mm}
+		\textbf{Project}: The Evolution of Proteins in Eukaryotes
+        {\begin{itemize}
+        \item \textbf{Tools}: Python, PyMOL
+        \item \textbf{Funding}: National Science Foundation \scriptsize{- East Asia and Pacific Summer Institutes}
+        \item \normalsize{Independently wrote grant to conduct international research}
+        \item Awarded stipend, living allowance, and airfare to Taipei, Taiwan
+ \vspace{4mm}
+		\end{itemize}}
+        }
+
+	\twentyitem
+    	{Jan 2017 -}
+		{Dec 2017}
+        {Petit Scholar Mentor}
+        {\href{http://petitinstitute.gatech.edu/become-petit-scholar-mentor}{Georgia Inst. of Tech.}}
+        {}
+        {
+\vspace{-3mm}
+        {\begin{itemize}
+        \item Mentored undergraduate in laboratory project
+        \item Awarded travel and materials allowance
+ \vspace{4mm}
+		\end{itemize}}
+        }
+
+        	\twentyitem
+    	{Aug 2013 -}
+		{Dec 2016}
+        {PhD Candidate, Graduate Teaching Assistant}
+        {\href{https://ww2.chemistry.gatech.edu/~lw26/}{Georgia Inst. of Tech.}}
+        {}
+        {
+       	\textbf{Course}: Macromolecular Structure - 2 semesters
+        {\begin{itemize}
+        \item CHEM 6572, Graduate-level
+        \item Trained $\sim$25 students on the use of molecular modeling software
+		\end{itemize}}
+       	\textbf{Course}: Biochemistry Lab II - 7 semesters
+        {\begin{itemize}
+        \item CHEM 4582, Undergraduate-level
+        \item Instructed biophysical chemistry laboratory course of 8 students
+ \vspace{2mm}
+		\end{itemize}}
+        }
+\end{twenty}
+
+%----------------------------------------------------------------------------------------
+%	 PUBLICATIONS
+%----------------------------------------------------------------------------------------
+
+\section{Publications\scriptsize{(selected)}}\href{https://scholar.google.com/citations?user=KIFFrX4AAAAJ&hl=en}
+- {\bf Kovacs, N.A.}, Petrov, A.S., Lanier, K.A., Williams, L.D. 2017 ``Frozen in Time: The History of Proteins", {\it Mol. Biol. Evol.} {\bf 34}, 1252-1260\vspace{2.0mm}\\
+- Gómez Ramos, L. M., Degtyareva, N. N., {\bf Kovacs, N. A.}, Holguin, S. Y., Jiang, L., Petrov, A. S., Williams, L. D. 2017 ``Eukaryotic Ribosomal Expansion Segments as Antimicrobial Targets" {\it Biochemistry} {\bf 56}, 5288−5299\vspace{2.0mm}\\
+- Petrov, A. S., Gulen, B., Norris, A. M., {\bf Kovacs, N. A.}, Bernier, C. R., Lanier, K. A., Williams, L. D. 2015 ``History of the ribosome and the origin of translation" {\it Proc. Natl. Acad. Sci. U.S.A.} {\bf 112}, 15396–15401\\
+
+%----------------------------------------------------------------------------------------
+%	 Presentations (experience seciton redefined)
+%----------------------------------------------------------------------------------------
+
+\section{Presentations\scriptsize{(selected)}}
+
+\begin{twenty} % Environment for a list with descriptions
+\twentyitem
+    	{Jun 2017}
+		{}
+        {Astrobiology Graduate Student Conference}
+        {{Charlottesville, VA}}
+        {\textbf{Title}: The History of Proteins}
+%\href{https://www.youtube.com/watch?v=FKvyR4HPFNI}
+
+	\twentyitem
+    	{Apr 2017}
+		{}
+        {Graduate Research Symposium}
+        {\href{http://www.calendar.gatech.edu/event/590513}{Atlanta, GA}}
+        {\textbf{Title}: Eukaryotic Ribosomal Protein Evolution \\ Awarded 3rd place}
+
+	\twentyitem
+    	{Dec 2016}
+		{}
+        {Search for Life: From Early Earth to Exoplanets}
+        {{Quy Nhon, Vietnam}}
+        {\textbf{Title}: Frozen in Time: The History of Proteins}
+%\href{https://www.youtube.com/watch?v=5p0opfZxpDQ}
+
+	%\twentyitem{<dates>}{<title>}{<location>}{<description>}
+\end{twenty}
+
+\end{document} 
