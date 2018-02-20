@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2017.10.20)  25 OCT 2017 16:12
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.2.13)  19 FEB 2018 19:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -634,7 +634,7 @@ Package: fontawesome 2015/07/30 v4.4.0 font awesome icons
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic
 .tex)
 Requested font "FontAwesome" at 10.0pt
- -> P^^(^^5^^B
+ -> ^^ h^^#^^B
 Requested font "FontAwesome/OT" at 10.0pt
  -> 
 \g__fontspec_family_FontAwesome_int=\count153
@@ -1448,7 +1448,7 @@ LaTeX Warning: Command \textbullet invalid in math mode on input line 66.
 LaTeX Warning: Command \textbullet invalid in math mode on input line 66.
 
 
-Overfull \hbox (0.4pt too wide) in paragraph at lines 66--66
+Overfull \hbox (6.43414pt too wide) in paragraph at lines 66--66
 [][] 
  []
 
@@ -1542,8 +1542,8 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 207.
  ) 
 Here is how much of TeX's memory you used:
  36648 strings out of 493638
- 691860 string characters out of 6146795
- 752465 words of memory out of 5000000
+ 691860 string characters out of 6146796
+ 752542 words of memory out of 5000000
  39566 multiletter control sequences out of 15000+600000
  4272 words of font info for 49 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
