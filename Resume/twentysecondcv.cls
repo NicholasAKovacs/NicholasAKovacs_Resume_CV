@@ -380,4 +380,7 @@
     % sets the opacity at which the bubble text is shown
     bubble text opacity = 1,
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> b008ed8b8531f74a8ec18ea46f095813529266f0
