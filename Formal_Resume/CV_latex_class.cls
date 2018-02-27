@@ -1,4 +1,4 @@
-%% Start of file `awesome-cv.cls'.
+%% Start of file `CV_latex_class.cls'.
 % Awesome CV Class File
 %
 % This class has been downloaded from:
@@ -21,7 +21,7 @@
 %-------------------------------------------------------------------------------
 %                Identification
 %-------------------------------------------------------------------------------
-\ProvidesClass{awesome-cv}[2017/02/05 v1.6.1 Awesome Curriculum Vitae Class]
+\ProvidesClass{CV_latex_class}[2017/02/05 v1.6.1 Awesome Curriculum Vitae Class]
 \NeedsTeXFormat{LaTeX2e}
 
 
@@ -659,13 +659,13 @@
 % Define an environment for cvitems(for cventry)
 \newenvironment{cvitems}{%
   \vspace{-4.0mm}
-  \begin{justify}
+  \begin{flushleft}
   \begin{itemize}[leftmargin=2ex, nosep, noitemsep]
     \setlength{\parskip}{0pt}
     \renewcommand{\labelitemi}{\bullet}
 }{%
   \end{itemize}
-  \end{justify}
+  \end{flushleft}
   \vspace{-4.0mm}
 }
 
