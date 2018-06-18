@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.2.13)  12 JUN 2018 11:33
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.2.13)  12 JUN 2018 12:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1163,20 +1163,6 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 35.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 35.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 35.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 35.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 35.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 35.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 35.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 35.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 35.
 ) (./Resume_sections/Education.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 10.0pt on input line 18.
@@ -1200,6 +1186,20 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
 (./Resume_sections/Experience.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 27.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 9.00014pt on input line 27.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.00009pt on input line 27.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 27.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.99986pt on input line 27.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.99991pt on input line 27.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 27.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 27.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/bx/n' will be
 (Font)              scaled to size 8.0pt on input line 68.
 ) (./Resume_sections/Computational_skills.tex
@@ -1219,10 +1219,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
 Here is how much of TeX's memory you used:
  40129 strings out of 493638
  765338 string characters out of 6146796
- 883721 words of memory out of 5000000
+ 884717 words of memory out of 5000000
  42992 multiletter control sequences out of 15000+600000
  7882 words of font info for 96 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 72i,13n,89p,10398b,540s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,13n,89p,10398b,533s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Nicholas_Kovacs_Resume.pdf (1 page).
