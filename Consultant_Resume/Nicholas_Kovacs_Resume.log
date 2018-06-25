@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.2.13)  21 JUN 2018 20:06
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.2.13)  24 JUN 2018 14:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1185,23 +1185,23 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
 )
 (./Resume_sections/Experience.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 27.
+(Font)              scaled to size 9.0pt on input line 28.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 27.
+(Font)              scaled to size 9.00014pt on input line 28.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 27.
+(Font)              scaled to size 6.00009pt on input line 28.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 27.
+(Font)              scaled to size 5.00008pt on input line 28.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 27.
+(Font)              scaled to size 8.99986pt on input line 28.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 27.
+(Font)              scaled to size 5.99991pt on input line 28.
 LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 27.
+(Font)              scaled to size 4.99992pt on input line 28.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 27.
+(Font)              scaled to size 6.0pt on input line 28.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/bx/n' will be
-(Font)              scaled to size 8.0pt on input line 68.
+(Font)              scaled to size 8.0pt on input line 69.
 ) (./Resume_sections/Computational_skills.tex
 Overfull \hbox (74.01198pt too wide) in alignment at lines 10--44
 [] [] 
