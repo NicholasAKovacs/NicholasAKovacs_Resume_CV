@@ -202,8 +202,8 @@
 % For elements of entry
 \newcommand*{\entrytitlestyle}[1]{{\vspace{-2mm}\fontsize{10pt}{1em}\bodyfont\bfseries\color{black} #1}}
 \newcommand*{\entrypositionstyle}[1]{{\fontsize{8pt}{1em}\bodyfont\scshape\color{black} #1}}
-\newcommand*{\entrydatestyle}[1]{{\fontsize{8pt}{1em}\bodyfontlight\slshape\color{black} #1}}
-\newcommand*{\entrylocationstyle}[1]{{\vspace{-2mm}\fontsize{9pt}{1em}\bodyfontlight\slshape\color{black} #1}}
+\newcommand*{\entrydatestyle}[1]{{\vspace{-2mm}\fontsize{9pt}{1em}\bodyfontlight\slshape\color{black} #1}}
+\newcommand*{\entrylocationstyle}[1]{{\fontsize{8pt}{1em}\bodyfontlight\slshape\color{black} #1}}
 \newcommand*{\descriptionstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\upshape\color{black} #1}}
 
 % For elements of subentry
@@ -572,9 +572,9 @@
   \setlength{\extrarowheight}{0pt}
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
     \ifempty{#2#3}
-      {\entrypositionstyle{#1} & \entrydatestyle{#4} \\}
-      {\entrytitlestyle{#2} & \entrylocationstyle{#3} \\
-      \entrypositionstyle{#1} & \entrydatestyle{#4} \\}
+      {\entrypositionstyle{#1} & \entrylocationstyle{#3} \\}
+      {\entrytitlestyle{#2} & \entrydatestyle{#4} \\
+      \entrypositionstyle{#1} & \entrylocationstyle{#3} \\}
     \multicolumn{2}{L{\textwidth}}{\descriptionstyle{#5}}
   \end{tabular*}%
 }
