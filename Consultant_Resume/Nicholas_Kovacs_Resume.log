@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.6.26)  28 JUN 2018 15:57
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.6.26)  9 JUL 2018 15:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1038,15 +1038,15 @@ LaTeX Info: Redefining \selectfont on input line 76.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(39.83368pt, 534.62764pt, 39.83368pt)
-* v-part:(T,H,B)=(39.83368pt, 715.30263pt, 39.83368pt)
+* h-part:(L,W,R)=(45.53044pt, 523.23412pt, 45.53044pt)
+* v-part:(T,H,B)=(45.53044pt, 703.9091pt, 45.53044pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=534.62764pt
-* \textheight=715.30263pt
-* \oddsidemargin=-32.43631pt
-* \evensidemargin=-32.43631pt
-* \topmargin=-69.43631pt
+* \textwidth=523.23412pt
+* \textheight=703.9091pt
+* \oddsidemargin=-26.73955pt
+* \evensidemargin=-26.73955pt
+* \topmargin=-63.73955pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1140,43 +1140,25 @@ Overfull \hbox (1.46pt too wide) in paragraph at lines 81--81
 []$[]$ $[]$$[]$
  []
 
-(./Resume_sections/Expertise.tex
+(./Resume_sections/Profile.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 32.
+ut line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 32.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 32.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
-(Font)              scaled to size 9.0pt on input line 32.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 32.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 32.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 32.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 32.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 32.
-LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 32.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 32.
+(Font)              scaled to size 9.0pt on input line 19.
 ) (./Resume_sections/Education.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 18.
@@ -1196,10 +1178,28 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
 (./Resume_sections/Experience.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 9.00014pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.00009pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.99986pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.99991pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 29.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 42.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/bx/n' will be
+(Font)              scaled to size 9.0pt on input line 42.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/bx/n' will be
 (Font)              scaled to size 8.0pt on input line 56.
 ) (./Resume_sections/Skills_and_Interests.tex
-Overfull \hbox (68.25197pt too wide) in alignment at lines 10--39
+Overfull \hbox (69.39139pt too wide) in alignment at lines 10--39
 [] [] 
  []
 
@@ -1213,12 +1213,12 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 40128 strings out of 493638
- 765311 string characters out of 6146796
- 884719 words of memory out of 5000000
- 42991 multiletter control sequences out of 15000+600000
+ 40126 strings out of 493638
+ 765281 string characters out of 6146796
+ 883723 words of memory out of 5000000
+ 42989 multiletter control sequences out of 15000+600000
  7882 words of font info for 96 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 72i,13n,89p,10398b,540s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,13n,89p,10398b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Nicholas_Kovacs_Resume.pdf (1 page).
