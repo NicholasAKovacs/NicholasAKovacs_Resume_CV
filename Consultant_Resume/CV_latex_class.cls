@@ -516,7 +516,7 @@
   \begin{minipage}[c]{\headerphotowidth}%
     \ifthenelse{\equal{\@photoalign}{right}}{\raggedleft\drawphoto}{}
   \end{minipage}
-  \vspace{-4.0mm}
+  \vspace{-5.0mm}
 }
 
 % Define a footer for CV
@@ -533,7 +533,7 @@
 \newcommand{\cvsection}[1]{%
   \vspace{\acvSectionTopSkip}
   \sectionstyle{#1}
-  \vspace{-2mm}
+  \vspace{-3mm}
   \phantomsection
   \color{black}\vhrulefill{0.9pt}
 }
