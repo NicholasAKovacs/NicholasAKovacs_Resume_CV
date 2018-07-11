@@ -103,7 +103,7 @@
 %-------------------------------------------------------------------------------
 %% Page Layout
 % Configure page margins with geometry
-\geometry{left=2.0cm, top=1.5cm, right=2.0cm, bottom=2.0cm, footskip=.5cm}
+\geometry{left=0.63in, top=0.63in, right=0.63in, bottom=0.63in, footskip=0.63in}
 
 %% Header & Footer
 % Set offset to each header and footer
@@ -192,7 +192,7 @@
 \newcommand*{\headerlastnamestyle}[1]{{\fontsize{32pt}{1em}\headerfont\bfseries\color{black} #1}}
 \newcommand*{\headerpositionstyle}[1]{{\fontsize{14pt}{1em}\bodyfont\scshape\color{black} #1}}
 \newcommand*{\headeraddressstyle}[1]{{\fontsize{10pt}{1em}\headerfont\itshape\color{black} #1}}
-\newcommand*{\headersocialstyle}[1]{{\vspace{-1mm}\fontsize{9pt}{1em}\headerfont\color{black} #1}}
+\newcommand*{\headersocialstyle}[1]{{\vspace{-1mm}\fontsize{8pt}{1em}\headerfont\color{black} #1}}
 \newcommand*{\headerquotestyle}[1]{{\fontsize{9pt}{1em}\bodyfont\itshape\color{black} #1}}
 \newcommand*{\footerstyle}[1]{{\fontsize{8pt}{1em}\footerfont\scshape\color{black} #1}}
 \newcommand*{\sectionstyle}[1]{{\fontsize{16pt}{1em}\bodyfont\bfseries\color{black}\@sectioncolor #1}}
@@ -516,7 +516,7 @@
   \begin{minipage}[c]{\headerphotowidth}%
     \ifthenelse{\equal{\@photoalign}{right}}{\raggedleft\drawphoto}{}
   \end{minipage}
-  \vspace{-4.0mm}
+  \vspace{-5.0mm}
 }
 
 % Define a footer for CV
@@ -533,7 +533,7 @@
 \newcommand{\cvsection}[1]{%
   \vspace{\acvSectionTopSkip}
   \sectionstyle{#1}
-  \vspace{-2mm}
+  \vspace{-3mm}
   \phantomsection
   \color{black}\vhrulefill{0.9pt}
 }
