@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.6.26)  9 JUL 2018 18:30
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.6.26)  12 JUL 2018 10:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1145,20 +1145,8 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 16.0pt on input line 4.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 19.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 19.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 19.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
-lable
-(Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
-ut line 19.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 19.
-LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 19.
+(Font)              scaled to size 10.0pt on input line 14.
 ) (./Resume_sections/Education.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 10.0pt on input line 18.
@@ -1168,12 +1156,26 @@ LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 8.0pt on input line 18.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 8.0pt on input line 18.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 18.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <9> not avai
 lable
 (Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
 ut line 18.
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 18.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 18.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(1)/m/sc' will be
+(Font)              scaled to size 8.0pt on input line 18.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 18.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/sl' in size <8> not avai
+lable
+(Font)              Font shape `EU1/SourceSansPro(2)/m/it' tried instead on inp
+ut line 18.
+LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 18.
 )
 (./Resume_sections/Experience.tex
 LaTeX Font Info:    Font shape `EU1/SourceSansPro(2)/bx/n' will be
@@ -1213,11 +1215,11 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 100.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 100.
  ) 
 Here is how much of TeX's memory you used:
- 40126 strings out of 493638
- 765281 string characters out of 6146796
- 883723 words of memory out of 5000000
- 42989 multiletter control sequences out of 15000+600000
- 7882 words of font info for 96 fonts, out of 8000000 for 9000
+ 40128 strings out of 493638
+ 765386 string characters out of 6146796
+ 882723 words of memory out of 5000000
+ 42990 multiletter control sequences out of 15000+600000
+ 7890 words of font info for 97 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  72i,13n,89p,10398b,484s stack positions out of 5000i,500n,10000p,200000b,80000s
 
