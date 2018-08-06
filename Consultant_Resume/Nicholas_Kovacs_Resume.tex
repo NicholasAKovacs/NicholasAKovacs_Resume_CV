@@ -46,6 +46,11 @@
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
 
+% Prevent text wrapping
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
 
 %-------------------------------------------------------------------------------
 %	PERSONAL INFORMATION
@@ -94,7 +99,12 @@
 \input{Resume_sections/Profile.tex}
 \input{Resume_sections/Education.tex}
 \input{Resume_sections/Experience.tex}
+\input{Resume_sections/Publications.tex}
 \input{Resume_sections/Skills_and_Interests.tex}
+%\input{CV_sections/Awards_and_scholarships.tex}
+%\input{CV_sections/Graduate_courses.tex}
+%\input{CV_sections/Presentations.tex}
+
 
 %-------------------------------------------------------------------------------
 \end{document}
