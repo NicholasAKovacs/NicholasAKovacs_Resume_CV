@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.6.26)  14 JUL 2018 22:47
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/Debian) (preloaded format=xelatex 2018.6.26)  22 JUL 2018 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -227,36 +227,6 @@ Overfull \hbox (5.00002pt too wide) in paragraph at lines 14--16
  []
 
 
-Overfull \hbox (17.5278pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 per-
- []
-
-
-Overfull \hbox (17.83336pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 son-
- []
-
-
-Overfull \hbox (17.77782pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 able
- []
-
-
-Overfull \hbox (16.11116pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 and
- []
-
-
-Overfull \hbox (25.00005pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 team-
- []
-
-
-Overfull \hbox (35.30562pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 oriented
- []
-
-
 Overfull \hbox (21.11115pt too wide) in paragraph at lines 14--16
 \OT1/cmr/m/n/10 com-
  []
@@ -407,21 +377,6 @@ Overfull \hbox (5.00002pt too wide) in paragraph at lines 14--16
  []
 
 
-Overfull \hbox (22.22227pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 man-
- []
-
-
-Overfull \hbox (17.7778pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 age-
- []
-
-
-Overfull \hbox (21.94449pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 ment
- []
-
-
 Overfull \hbox (18.33336pt too wide) in paragraph at lines 14--16
 \OT1/cmr/m/n/10 con-
  []
@@ -442,18 +397,23 @@ Overfull \hbox (8.88892pt too wide) in paragraph at lines 14--16
  []
 
 
-Overfull \hbox (24.72226pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 McK-
+Overfull \hbox (22.15282pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 BCG
  []
 
 
-Overfull \hbox (11.66669pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 in-
+Overfull \hbox (8.91669pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 or
  []
 
 
-Overfull \hbox (65.05571pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 sey&Company.
+Overfull \hbox (22.15282pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 BCG
+ []
+
+
+Overfull \hbox (37.29176pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 Gamma.
  []
 
 
@@ -517,18 +477,8 @@ Overfull \hbox (19.50003pt too wide) in paragraph at lines 14--16
  []
 
 
-Overfull \hbox (13.33337pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 ing
- []
-
-
-Overfull \hbox (11.66669pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 in-
- []
-
-
-Overfull \hbox (25.5556pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 clude:
+Overfull \hbox (16.11116pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 ing:
  []
 
 
@@ -882,21 +832,6 @@ Overfull \hbox (13.33337pt too wide) in paragraph at lines 14--16
  []
 
 
-Overfull \hbox (33.63893pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 cowork-
- []
-
-
-Overfull \hbox (12.30556pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 ers
- []
-
-
-Overfull \hbox (19.44449pt too wide) in paragraph at lines 14--16
-\OT1/cmr/m/n/10 with
- []
-
-
 Overfull \hbox (21.11115pt too wide) in paragraph at lines 14--16
 \OT1/cmr/m/n/10 com-
  []
@@ -939,6 +874,16 @@ Overfull \hbox (11.97226pt too wide) in paragraph at lines 14--16
 
 Overfull \hbox (15.00003pt too wide) in paragraph at lines 14--16
 \OT1/cmr/m/n/10 five
+ []
+
+
+Overfull \hbox (33.63893pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 cowork-
+ []
+
+
+Overfull \hbox (15.08334pt too wide) in paragraph at lines 14--16
+\OT1/cmr/m/n/10 ers'
  []
 
 
@@ -1092,10 +1037,6 @@ Overfull \hbox (16.11116pt too wide) in paragraph at lines 14--16
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
 ! LaTeX Error: The font size command \normalsize is not defined:
                there is probably something wrong with the class file.
 
@@ -1137,5 +1078,5 @@ Here is how much of TeX's memory you used:
  3508 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 13i,4n,10p,804b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 13i,4n,10p,751b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
 Output written on Profile.pdf (1 page).
