@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.3.14)  14 AUG 2018 13:34
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6630 64-bit) (preloaded format=xelatex 2018.3.14)  16 OCT 2018 13:06
 entering extended mode
 **./Nicholas_Kovacs_Resume.tex
 (Nicholas_Kovacs_Resume.tex
@@ -1400,6 +1400,18 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 9.0pt on input line 24.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 24.
+
+! Undefined control sequence.
+<argument> ...he History of Proteins", {\itSearch 
+                                                  for Life: From Early Earth...
+l.35     }
+          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 ) (Resume_sections/Skills_and_Interests.tex
 Overfull \hbox (69.5885pt too wide) in alignment at lines 10--44
 [] [] 
@@ -1415,10 +1427,10 @@ Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 110.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 110.
  ) 
 Here is how much of TeX's memory you used:
- 38061 strings out of 427836
- 746636 string characters out of 3146809
- 958127 words of memory out of 3000000
- 41559 multiletter control sequences out of 15000+200000
+ 38062 strings out of 427836
+ 746644 string characters out of 3146809
+ 959127 words of memory out of 3000000
+ 41560 multiletter control sequences out of 15000+200000
  534060 words of font info for 98 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
  72i,13n,89p,10443b,485s stack positions out of 5000i,500n,10000p,200000b,50000s
