@@ -201,9 +201,9 @@
 
 % For elements of entry
 \newcommand*{\entrytitlestyle}[1]{{\vspace{-2mm}\fontsize{10pt}{1em}\bodyfont\bfseries\color{black} #1}}
-\newcommand*{\entrypositionstyle}[1]{{\fontsize{8pt}{1em}\bodyfont\scshape\color{black} #1}}
+\newcommand*{\entrypositionstyle}[1]{{\fontsize{9pt}{1em}\bodyfont\scshape\color{black} #1}}
 \newcommand*{\entrydatestyle}[1]{{\fontsize{8pt}{1em}\bodyfontlight\slshape\color{black} #1}}
-\newcommand*{\entrylocationstyle}[1]{{\vspace{-2mm}\fontsize{9pt}{1em}\bodyfontlight\slshape\color{black} #1}}
+\newcommand*{\entrylocationstyle}[1]{{\vspace{-2mm}\fontsize{8pt}{1em}\bodyfontlight\slshape\color{black} #1}}
 \newcommand*{\descriptionstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\upshape\color{black} #1}}
 
 % For elements of subentry
@@ -302,6 +302,9 @@
 % Defines writer's linked-in (optional)
 % Usage: \linkedin{<linked-in-nick>}
 \newcommand*{\linkedin}[1]{\def\@linkedin{#1}}
+
+% Usage: \twitter{<twitter handle>}
+\newcommand*{\google}[1]{\def\@google{#1}}
 
 % Usage: \twitter{<twitter handle>}
 \newcommand*{\twitter}[1]{\def\@twitter{#1}}
@@ -453,6 +456,12 @@
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
           \href{http://\@homepage}{\faHome\acvHeaderIconSep\@homepage}%
+        }%
+      \ifthenelse{\isundefined{\@google}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \href{http://\@google}{\faGoogle\acvHeaderIconSep\@google}%
         }%
       \ifthenelse{\isundefined{\@github}}%
         {}%
